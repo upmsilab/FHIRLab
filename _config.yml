@@ -1,0 +1,46 @@
+# Theme settings
+doks:
+    baseurl: https://gpvillanuevasilab.github.io/FHIRLab/
+    color_theme: yellow # Available themes: blue (default), green, purple, red and yellow
+    header:
+        logo:
+            text:
+            image: true
+        nav:
+            - item_name: Home
+              item_url: 'https://fhir.org/'
+              external_url: true
+            - item_name: Chat
+              item_url: 'https://chat.fhir.org/'
+              external_url: true
+            - item_name: Spec
+              item_url: 'https://www.hl7.org/fhir/'
+              external_url: true
+    footer:
+        content:
+            logo:
+                text: FHIRLab
+                image:
+            copyright: Copyright &copy; 2024. - UPM SILab <br>All rights reserved.
+        social_list:
+            - network_name: facebook
+              profile_url: 'https://www.facebook.com/upmsilab'
+            - network_name: slack
+              profile_url: 'https://upmsilabcommu-oyo1041.slack.com/'
+            - network_name: youtube
+              profile_url: 'https://www.youtube.com/@upmsilab'
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: compressed
+
+# Jekyll settings
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/

@@ -1,0 +1,40 @@
+image: ruby:latest
+
+
+build:
+  variables:
+    JEKYLL_ENV: production
+    LC_ALL: C.UTF-8
+  stage: build
+  script:
+      - bundle install
+      - bundle exec jekyll build -d site
+  artifacts:
+    paths:
+    - site
+#  rules:
+#    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+
+package:
+  stage: deploy
+  image:
+    name: gcr.io/kaniko-project/executor:v1.23.2-debug
+    entrypoint: [""]
+  script:
+    - /kaniko/executor
+      --context "${CI_PROJECT_DIR}"
+      --dockerfile "${CI_PROJECT_DIR}/Dockerfile"
+      --destination "${CI_REGISTRY_IMAGE}:${CI_COMMIT_TAG}"
+#  rules:
+#    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+    
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp -r site/* public
+  artifacts:
+    paths:
+    - public
+#  rules:
+#    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

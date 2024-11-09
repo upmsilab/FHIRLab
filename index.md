@@ -34,18 +34,18 @@ grid_navigation:
     - title: Software Developers
       excerpt: Tools to accelerate testing and validation of digital health solutions.
       cta: Learn More
-      url: ''
+      url: ' '
     - title: Healthcare Professionals
       excerpt: Simulated Point-of-Care Systems and FHIR enabled repositories for real-world use cases.
       cta: Learn More
-      url: ''
+      url: ' '
     - title: Trainers and Students
       excerpt: Built-in workflows and exercises for FHIR training and immersive learning.
       cta: Learn More
-      url: ''
+      url: ' '
      - title: Policy and Decision Makers
       excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
       cta: Learn More
-      url: ''
+      url: ' '
 
 ---

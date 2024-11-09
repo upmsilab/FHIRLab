@@ -29,6 +29,10 @@ buttons:
  #   external_url: true
    # description: UP Manila SILab is a multidisciplinary group established at the National Institutes of Health composed of members from different sectors with a vision of quality health for the underserved through the appropriate use of information technology. 
 
+<div class="H3">
+    <p><strong>for a diverse digital health community—from developers and clinicians to policymakers and educators./p>
+</div>
+        
 # Grid navigation
 grid_navigation:
     - title: Digital Health Solution Developers

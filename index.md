@@ -11,8 +11,8 @@ description: "A sandbox for Digital Health Standards and Interoperability, devel
 buttons:
     - icon: chevron-right
       content: Join the FHIR Lab Community
-      url: ''
-#      external_url: false
+      url: 'https://upmsilab.atlassian.net/wiki/spaces/SCOPC/overview'
+      external_url: true
 #    - icon: chevron-right
 #      content: Technical
 #      url: 'technical'
@@ -43,7 +43,7 @@ grid_navigation:
       excerpt: Built-in workflows and exercises for FHIR training and immersive learning.
       cta: Learn More
       url: ' '
-     - title: Policy and Decision Makers
+    - title: Policy and Decision Makers
       excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
       cta: Learn More
       url: ' '

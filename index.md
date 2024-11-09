@@ -4,15 +4,14 @@ layout: homepage
 keywords:
 
 # Hero section
-title: FHIRLab
-description: "A FHIR sandbox for the Philippines and beyond, made by SILab. Take the tour:"
+title: FHIR Lab
+description: "A sandbox for Digital Health Standards and Interoperability, developed as part of The CSIRO Strengthening Standards Capability Project (SSCP) in collaboration between Australian e-Health Research Centre (AEHRC) at Commonwealth Scientific and Industrial Research Organisation and Standards and Interoperability Lab, Univeristy of the Philippines, Manila (UPM SILab). FHIR Lab is an open collaborative platform that enable stakeholders to explore, learn, test and validate digital health standards-based solutions in a safe and controlled environment."
 
-# FHIRLab is an interoperability reference infrastructure (<a href="https://en.wikipedia.org/wiki/Sandbox_(software_development)">sandbox</a>), co-developed by <a href="https://www.upmsilab.org/">UPM SILab</a> and <a href="http://csiro.au">CSIRO, Australia</a> as part of the Strengthening Standards Capability Project (SSCP) for improved adoption of data standards and interoperability in the Southeast Asia and Pacific region​.
 
 # buttons:
-#    - icon: chevron-right
-#      content: Medical
-#      url: 'medical'
+    - icon: chevron-right
+      content: Join the FHIR Lab Community
+      url: ''
 #      external_url: false
 #    - icon: chevron-right
 #      content: Technical
@@ -32,18 +31,21 @@ description: "A FHIR sandbox for the Philippines and beyond, made by SILab. Take
 
 # Grid navigation
 grid_navigation:
-    - title: Terminology Server
-      excerpt: CSIRO Ontoserver
-      cta: Try it
-      title_url: 'https://tx.fhirlab.net'
-      external_url: true
-    - title: Service
-      excerpt: Learn about our FHIR services.
-      cta: Light a FHIR ...
-      url: 'services'
-    - title: Community
-      excerpt: Learn about our community.
-      cta: Carry the torch ...
-      url: 'community'
+    - title: Software Developers
+      excerpt: Tools to accelerate testing and validation of digital health solutions.
+      cta: Learn More
+      url: ''
+    - title: Healthcare Professionals
+      excerpt: Simulated Point-of-Care Systems and FHIR enabled repositories for real-world use cases.
+      cta: Learn More
+      url: ''
+    - title: Trainers and Students
+      excerpt: Built-in workflows and exercises for FHIR training and immersive learning.
+      cta: Learn More
+      url: ''
+     - title: Policy and Decision Makers
+      excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
+      cta: Learn More
+      url: ''
 
 ---

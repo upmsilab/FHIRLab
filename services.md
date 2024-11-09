@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Services
-description: "FHIRLab - What is in the sandbox"
+description: "What is in the FHIR Lab sandbox"
 
 # Author box
 # author:
@@ -54,7 +54,7 @@ grid_navigation:
    HAPI FHIR server with open access.
 
    Software | HAPI FHIR R4 Server
-   FHIR Base URL | [https://cdr.fhirlab.net/fhir]([https://cdr.fhirlab.net/fhir])
+   FHIR Base URL | [https://cdr.fhirlab.net/fhir](https://cdr.fhirlab.net/fhir)
    
 
 # Terminology Server
@@ -77,6 +77,5 @@ grid_navigation:
 <div class="callout callout--info">
 <strong>Watch this space as we grow our environment</strong>
 
-<p>CSIRO SSCP and UPM SILab are collaboration with regional stakeholders and technology partners to grow the application footprint and include some simulated point-of-care systems such as, Bahmni, OPEN MRS, SMILE CDR.</p> 
-
+<p>CSIRO SSCP and UPM SILab are collaborating with digital health stakeholders and technology partners to grow the FHIR Lab application footprint including but not limited to the implementation of simulated point-of-care systems and shared health data repositories such as, Bahmni, OPEN MRS, SMILE CDR.</p> 
 </div>

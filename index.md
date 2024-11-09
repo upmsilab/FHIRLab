@@ -8,7 +8,7 @@ title: FHIR Lab
 description: "A sandbox for Digital Health Standards and Interoperability, developed as part of The CSIRO Strengthening Standards Capability Project (SSCP) in collaboration between Australian e-Health Research Centre (AEHRC) at Commonwealth Scientific and Industrial Research Organisation and Standards and Interoperability Lab, Univeristy of the Philippines, Manila (UPM SILab). FHIR Lab is an open collaborative platform that enable stakeholders to explore, learn, test and validate digital health standards-based solutions in a safe and controlled environment."
 
 
-# buttons:
+buttons:
     - icon: chevron-right
       content: Join the FHIR Lab Community
       url: ''

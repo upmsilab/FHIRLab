@@ -9,11 +9,11 @@ title: Services
 description: "FHIRLab - What is in the sandbox"
 
 # Author box
-author:
-    title: "by Google Gemini"
-    title_url: 'https://en.wikipedia.org/wiki/Gemini_(language_model)'
-    external_url: true
-    description: "content created by LLM"
+# author:
+#    title: "by Google Gemini"
+#    title_url: 'https://en.wikipedia.org/wiki/Gemini_(language_model)'
+#    external_url: true
+#    description: "content created by LLM"
 
 # Micro navigation
 micro_nav: true
@@ -41,15 +41,13 @@ grid_navigation:
 
 ---
 <div class="callout callout--danger">
-<strong>FHIR Lab is not for Production Use. Don't Store Real PHI Data</strong>
+<strong>The sandbox is not intended for production use. Please don't store any real PHI Data</strong>
 
-<p>The sandbox is intended for non-production use for testing and development purposes only. Do not store real patient health information or any identifiable data.</p>
+<p>The sandbox is intended for non-production development, testing and validation use only. Do not store real patient health information or any identifiable data.</p>
 
 <strong>Only use synthetic data for testing, validation and learning.</strong>
 
 </div>
-
-Otherwise, you may want to look at our [Core Components](#core-components), the surrounding [Peripherals]() and how to [keep up-to-date]() with what is happening.
 
 # FHIR Server
 
@@ -63,17 +61,15 @@ Otherwise, you may want to look at our [Core Components](#core-components), the 
 
    CSIRO [Ontoserver](Ontoserver) is used as shared terminology across the platform
 
-   Software | Ontoserver®
+   Software | CSIRO Ontoserver
    FHIR Version | 4.0.1
    Supported Formats | application/fhir+xml, xml, application/fhir+json, json
    FHIR Endpoint | [https://tx.fhirlab.net/fhir](https://tx.fhirlab.net/fhir)
-   Provides a central source of standardized healthcare terminology.
-   * Includes code systems, value sets, and concept maps.
-   * Ensures consistent data representation and interoperability.   
+    
 
-## Validator
+# Validator
 
-   FHIR Lab use HL7 Standards Validator for FHIR Resource Validation
+   HL7  Validator for FHIR Resource Validation
 
    HL7 Validator | [https://validator.fhirlab.net/](https://validator.fhirlab.net/)
 

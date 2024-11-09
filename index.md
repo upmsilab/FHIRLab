@@ -10,8 +10,8 @@ description: "A sandbox for Digital Health Standards and Interoperability, devel
 
 buttons:
     - icon: chevron-right
-      content: Join the FHIR Lab Community
-      url: 'https://upmsilab.atlassian.net/wiki/spaces/SCOPC/overview'
+      content: Explore Our Tools Library
+      url: 'services'
       external_url: true
 #    - icon: chevron-right
 #      content: Technical
@@ -31,8 +31,8 @@ buttons:
 
 # Grid navigation
 grid_navigation:
-    - title: Software Developers
-      excerpt: Tools to accelerate testing and validation of digital health solutions.
+    - title: Digital Health Solution Developers
+      excerpt: Developer tools to accelerate developement, testing and validation of digital health solutions.
       cta: Learn More
       url: ' '
     - title: Healthcare Professionals

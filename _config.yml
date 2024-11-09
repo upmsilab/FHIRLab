@@ -8,27 +8,27 @@ doks:
             image: true
         nav:
             - item_name: Home
-              item_url: 'https://fhir.org/'
+              item_url: 'https://fhirlab.net/'
               external_url: true
-            - item_name: Chat
-              item_url: 'https://chat.fhir.org/'
+            - item_name: SSCP
+              item_url: 'https://sscp.health/'
               external_url: true
-            - item_name: Spec
-              item_url: 'https://www.hl7.org/fhir/'
+            - item_name: Community
+              item_url: 'https://upmsilab.atlassian.net/wiki/spaces/SCOPC/overview'
               external_url: true
     footer:
         content:
             logo:
                 text: FHIRLab
                 image:
-            copyright: Copyright &copy; 2024. - UPM SILab <br>All rights reserved.
-        social_list:
-            - network_name: facebook
-              profile_url: 'https://www.facebook.com/upmsilab'
-            - network_name: slack
-              profile_url: 'https://upmsilabcommu-oyo1041.slack.com/'
-            - network_name: youtube
-              profile_url: 'https://www.youtube.com/@upmsilab'
+            copyright: Copyright &copy; 2024<br>All rights reserved.
+        #social_list:
+           # - network_name: facebook
+           #   profile_url: ''
+           # - network_name: slack
+           #   profile_url: 'https://upmsilabcommu-oyo1041.slack.com/'
+           # - network_name: youtube
+           #   profile_url: 'https://www.youtube.com/@upmsilab'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:

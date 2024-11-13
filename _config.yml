@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: https://upmsilab.github.io/FHIRLab/
+    baseurl: https://fhirlab.net/
     color_theme: yellow # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:

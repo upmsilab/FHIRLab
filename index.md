@@ -23,11 +23,11 @@ buttons:
 #      external_url: false
 
 # Author box
-# author:
- #   title: About SILab
- #   title_url: 'https://www.upmsilab.org/'
- #   external_url: true
-   # description: UP Manila SILab is a multidisciplinary group established at the National Institutes of Health composed of members from different sectors with a vision of quality health for the underserved through the appropriate use of information technology. 
+author:
+ title: 4-7 Feb 2025, Manila Interoperability Bootcamp
+ title_url: '[Registration is open](https://bit.ly/2025-bootcamp )'
+ external_url: true
+ description: Join us to advance your Digital Health Standards and Interoperability skills, collaborate with peers, and gain practical experience in developing FHIR enabled digital health applications using tools like Ontoserver, Google Open Health Stack (OHS), SMILE clinical Data Repository and AidBox. 
         
 # Grid navigation
 grid_navigation:

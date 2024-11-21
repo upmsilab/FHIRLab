@@ -50,7 +50,7 @@ grid_navigation:
 
 # Terminology Server
 
-   CSIRO [Ontoserver](Ontoserver) is used as shared terminology across the platform
+   CSIRO Ontoserver is used as shared FHIR terminology Server across the platform
 
    Software | CSIRO Ontoserver
    FHIR Version | 4.0.1

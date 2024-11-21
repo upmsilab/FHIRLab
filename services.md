@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Services
-description: "What is in the FHIR Lab sandbox"
+title: Tools & Services
+description: "<strong>The FHIR Lab sandbox is designed for learning, testing and validation purposes only. Do not use it for production or store real patient health information (PHI) or identifiable data. Use synthetic data exclusively for testing, validation, and learning.<strong>"
 
 # Author box
 # author:
@@ -40,15 +40,6 @@ grid_navigation:
       url: '#'
 
 ---
-<div class="callout callout--danger">
-<strong>The sandbox is not intended for production use. Please don't store any real PHI Data</strong>
-
-<p>The sandbox is intended for non-production development, testing and validation use only. Do not store real patient health information or any identifiable data.</p>
-
-<strong>Only use synthetic data for testing, validation and learning.</strong>
-
-</div>
-
 # FHIR Server
 
    HAPI FHIR server with open access.
@@ -74,8 +65,9 @@ grid_navigation:
    HL7 Validator | [https://validator.fhirlab.net/](https://validator.fhirlab.net/)
 
 
-<div class="callout callout--info">
-<strong>Watch this space as we grow our environment</strong>
 
-<p>CSIRO SSCP and UPM SILab are collaborating with digital health stakeholders and technology partners to grow the FHIR Lab application footprint including but not limited to the implementation of simulated point-of-care systems and shared health data repositories such as, Bahmni, OPEN MRS, SMILE CDR.</p> 
+<div class="callout callout--info">
+<strong>Watch this space as we include more tools for FHIR Lab</strong>
+
+<p>CSIRO SSCP and UPM SILab are collaborating with digital health stakeholders and technology partners to grow FHIR Lab use cases including but not limited to the implementation of simulated point-of-care systems and shared health data repositories for advocacy, learning and testing of digital health solutions</p> 
 </div>

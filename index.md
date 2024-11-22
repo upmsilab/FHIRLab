@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: FHIR Lab
-description: "An open collaborative Digital Health Sandbox that enables stakeholders to explore, learn, test and validate digital health standards-based solutions in a safe and controlled environment. FHIR Lab is part of The Strengthening Standards Capability Project (SSCP), a collaborative effort between Australian e-Health Research Centre (AEHRC) at Commonwealth Scientific and Industrial Research Organisation (CSIRO) and Standards and Interoperability Lab, University of the Philippines, Manila (UPM SILab) for improved adoption of digital health standards and interoperability."
+description: "An open collaborative Digital Health Sandbox that enables stakeholders to explore, learn, test and validate digital health standards-based solutions in a safe and controlled environment. FHIR Lab is part of The Strengthening Standards Capability Project ([SSCP](https://sscp.health)), a collaborative effort between the Australian e-Health Research Centre (AEHRC) at the Commonwealth Scientific and Industrial Research Organisation ([CSIRO](https://csiro.au)) and Standards and Interoperability Lab, University of the Philippines, Manila ([UPM SILab](https://www.upmsilab.org/)) for improved adoption of digital health standards and interoperability."
 
 
 buttons:

@@ -24,9 +24,9 @@ buttons:
 
 # Author box
 author:
- title: 4-7 Feb 2025, Manila Interoperability Bootcamp
- title_url: 'https://bit.ly/2025-bootcamp'
- external_url: true
+ title: 4-6 Feb 2025, Manila Interoperability Bootcamp
+ title_url: 'bootcamp2025'
+ external_url: false
  description: Join us to advance your Digital Health Standards and Interoperability skills, collaborate with peers, and gain practical experience in developing FHIR enabled digital health applications using tools like Ontoserver, Google Open Health Stack (OHS), SMILE clinical Data Repository and AidBox. 
         
 # Grid navigation

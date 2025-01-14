@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Interoperability Bootcamp, Manila 2025
-description: "<strong>The FHIR Lab sandbox is designed for learning, testing and validation purposes only. Do not use it for production or store real patient health information (PHI) or identifiable data. Use synthetic data exclusively for testing, validation, and learning.<strong>"
+title: Digital Health Interoperability Bootcamp Manila 2025
+description: "<strong>Learn to build FHIR-native solutions and mobile applications with guidance from the industry's top leaders<strong>"
 
 # Author box
 # author:
@@ -40,30 +40,34 @@ grid_navigation:
       url: '#'
 
 ---
-# FHIR Server
+# Learning Objectives
+  Content goes here
 
-   HAPI FHIR server with open access.
+# Public Health Use Cases
+  Discuss the scope of these use cases
+  
+## Immunisation
+  Briefly discuss Immunisation challenges in Philippines
+  Upload the form and link here to download
+## Maternal Health
+  Briefly discuss Maternal Health challenges in Philippines
+  Upload the form and link here to download
+## Maternal Health
+  Briefly discuss Nutrition challenges in Philippines
+  Upload the form and link here to download
 
-   Software | HAPI FHIR R4 Server
-   FHIR Base URL | [https://cdr.fhirlab.net/fhir](https://cdr.fhirlab.net/fhir)
-   
-
-# Terminology Server
-
-   CSIRO Ontoserver is used as shared FHIR terminology Server across the platform
-
-   Software | CSIRO Ontoserver
-   FHIR Version | 4.0.1
-   Supported Formats | application/fhir+xml, xml, application/fhir+json, json
-   FHIR Endpoint | [https://tx.fhirlab.net/fhir](https://tx.fhirlab.net/fhir)
+# Technology
+  Share what technologies are available and how they can be used
+## Google Open Health Stack
+  Share what technologies are available and how they can be used
+## HealthSamurai Aidbox
+  Share what technologies are available and how they can be used
+## HAPI FHIR Server
+  Share what technologies are available and how they can be used
+## CSIRO Ontoserver
+  Share what technologies are available and how they can be used
     
-
-# Validator
-
-   HL7  Validator for FHIR Resource Validation
-
-   HL7 Validator | [https://validator.fhirlab.net/](https://validator.fhirlab.net/)
-
+# Partner Organisations
 
 
 <div class="callout callout--info">

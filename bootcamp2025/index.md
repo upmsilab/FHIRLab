@@ -32,20 +32,17 @@ micro_nav: true
   The Immunization Program in the Philippines faces significant challenges and risks that hinder its effectiveness. Fragmented systems and inadequate infrastructure create inefficiencies, while human resource shortages and skills gaps exacerbate operational issues. Political will and funding shortages undermine     
  sustainability and planning efforts. Digital tools, such as eLMIS, remain underutilized due to low awareness, advocacy, and acceptance, compounded by misinformation and lack of education. Geographically isolated areas face additional barriers, and a lack of ICT equipment, digital health strategies, and regulatory frameworks further impede progress. Risks include data security threats, natural disasters, armed conflict, leadership changes, economic instability, and sudden outbreaks, which strain resources and disrupt program continuity.
 
-  <  <div class="callout callout--info">
-    Download the existing form below and follow the instructions from facilitators to develop a simple Immunisation Application along with peers and mentors. 
+  <div class="callout callout--info">Download the existing form below and follow the instructions from facilitators to develop a simple Immunisation Application along with peers and mentors.</div>
   
 ## Maternal Health
   The Maternal Health Program in the Philippines faces significant challenges in implementing digital solutions. Fragmented information systems, limited capacity for system enhancements, and difficulties in collecting accurate maternal and child health data hinder progress. Cultural resistance among users and employees and policy gaps in health digitalization slow the transition to digital systems. Harmonizing varying levels of digitalization across agencies and addressing weak data collection capacity require substantial human, financial, and infrastructural resources. Risks include data-sharing refusals due to security, privacy, ethical, and legal concerns, alongside susceptibility to data breaches, threatening collaboration and the effective use of digital health solutions.
 
-  <div class="callout callout--info">
-    Download the existing form below and follow the instructions from facilitators to develop a simple Maternal Health Check application along with peers and mentors. 
+  <div class="callout callout--info">Download the existing form below and follow the instructions from facilitators to develop a simple Maternal Health Check application along with peers and mentors.</div> 
   
 ## Nutrition
   The Nutrition Program in the Philippines encounters numerous challenges and risks in leveraging digital health solutions. Issues with data aggregation, quality, and interoperability hinder effective analysis and decision-making. Fragmented systems, varying definitions, and inconsistent compliance across agencies and local governments complicate efforts. Human resource mobilization, capacity building, and stakeholder buy-in remain critical gaps. Limited funding for ICT tools and infrastructure, alongside rapid turnover in inter-agency committees, further impede progress. Risks include cybersecurity and data privacy concerns, reluctance of stakeholders to interoperate, and the absence of clear governance or leadership at the national level, jeopardizing coordination and program sustainability.
 
-  <div class="callout callout--info">
-    Download the existing form below and follow the instructions from facilitators to develop a simple Nutrition Data Capture application along with peers and mentors. 
+  <div class="callout callout--info">Download the existing form below and follow the instructions from facilitators to develop a simple Nutrition Data Capture application along with peers and mentors.</div> 
 
 # Bootcamp Technology Stack
   Share what technologies are available and how they can be used

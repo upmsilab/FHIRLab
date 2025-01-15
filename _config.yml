@@ -10,18 +10,18 @@ doks:
             - item_name: Home
               item_url: 'https://fhirlab.net/'
               external_url: true
-            - item_name: SSCP
+            - item_name: CSIRO SSCP
               item_url: 'https://sscp.health/'
               external_url: true
             - item_name: Community
-              item_url: 'https://upmsilab.atlassian.net/wiki/spaces/SCOPC/overview'
+              item_url: 'https://chat.whatsapp.com/D7V2j7qLi31EuPmFCoyRC1'
               external_url: true
     footer:
         content:
             logo:
                 text: FHIRLab
                 image:
-            copyright: Copyright &copy; 2024<br>All rights reserved.
+            copyright: Copyright &copy; 2025<br>All rights reserved.
         #social_list:
            # - network_name: facebook
            #   profile_url: ''

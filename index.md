@@ -9,43 +9,43 @@ description: "An open Interoperability Sandbox for Advocacy, Learning and Testin
 
 
 buttons:
-    - icon: chevron-right
-      content: Explore Our Tools Library
-      url: 'services'
-      external_url: true
-    - icon: chevron-right
-      content: Technical
-      url: 'technical'
+#    - icon: chevron-right
+      content: Advocacy
+      url: 'advocacy'
       external_url: false
-    - icon: chevron-right
-      content: Student
-      url: 'student'
+ #   - icon: chevron-right
+      content: Learning
+      url: 'learning'
+      external_url: false
+  #  - icon: chevron-right
+      content: Testing
+      url: 'testing'
       external_url: false
 
 # Author box
 author:
- title: 4-6 Feb 2025, Manila Interoperability Bootcamp
- title_url: 'bootcamp2025'
+ title: FHIRLab Community Events
+ title_url: 'futureevents'
  external_url: false
- description: Join us to advance your Digital Health Standards and Interoperability skills, collaborate with peers, and gain practical experience in developing FHIR enabled digital health applications using tools like Ontoserver, Google Open Health Stack (OHS), SMILE clinical Data Repository and AidBox. 
+ description: Join us at the next FHIRLab event. Learn, test and validate digital health solutions along with peers, industry leaders and interoperability community of Practice.  
         
 # Grid navigation
 grid_navigation:
-    - title: Digital Health Solution Developers
-      excerpt: Developer tools to accelerate developement, testing and validation of digital health solutions.
+    - title: I'm a technology implementer
+      excerpt: Use FhirLab to accelerate developement, testing and validation of standards-based digital health solutions.
       cta: Learn More
-      url: ' '
-    - title: Healthcare Professionals
-      excerpt: Simulated Point-of-Care Systems and FHIR enabled repositories for real-world use cases.
+      url: 'developer'
+    - title: I'm a Healthcare Worker
+      excerpt: Use FHIRLab as Simulated Point-of-Care Systems and FHIR enabled digital applicatins to explore real-world healthcare usecases.
       cta: Learn More
-      url: ' '
-    - title: Trainers and Students
-      excerpt: Built-in workflows and exercises for FHIR training and immersive learning.
+      url: 'provider'
+    - title: I'm a Trainer/Student
+      excerpt: Use FHIRLab for FHIR exercises, training and hands-on immersive learning.
       cta: Learn More
-      url: ' '
-    - title: Policy and Decision Makers
+      url: 'learner'
+    - title: I'm Policy maker/Health Systems Manager
       excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
       cta: Learn More
-      url: ' '
+      url: 'policymaker'
 
 ---

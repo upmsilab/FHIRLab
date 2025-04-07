@@ -22,11 +22,11 @@ doks:
                 text: FHIRLab
                 image:
             copyright: Copyright &copy; 2025<br>All rights reserved.
-        #social_list:
-           # - network_name: CSIRO SSCP
-           #   profile_url: 'https://sscp.health/'
-           # - network_name: WhatsApp
-           #   profile_url: 'https://chat.whatsapp.com/D7V2j7qLi31EuPmFCoyRC1'
+        social_list:
+            - network_name: CSIRO SSCP
+              profile_url: 'https://sscp.health/'
+            - network_name: WhatsApp
+              profile_url: 'https://chat.whatsapp.com/D7V2j7qLi31EuPmFCoyRC1'
            # - network_name: youtube
            #   profile_url: 'https://www.youtube.com/@upmsilab'
     google_analytics:

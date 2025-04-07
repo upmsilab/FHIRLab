@@ -9,15 +9,15 @@ description: "An open Interoperability Sandbox for Advocacy, Learning and Testin
 
 
 buttons:
-#    - icon: chevron-right
+    - icon: 
       content: Advocacy
       url: 'advocacy'
       external_url: false
- #   - icon: chevron-right
+    - icon: 
       content: Learning
       url: 'learning'
       external_url: false
-  #  - icon: chevron-right
+    - icon: 
       content: Testing
       url: 'testing'
       external_url: false

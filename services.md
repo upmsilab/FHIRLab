@@ -22,7 +22,7 @@ micro_nav: true
 page_nav:
     prev:
         content: Advocacy
-        url: '../advocacy'
+        url: '/advocacy'
     next:
         content: Learning
         url: '#'

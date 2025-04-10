@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Tools & Services
-description: "<strong>The FHIR Lab sandbox is designed for learning, testing and validation purposes only. Do not use it for production or store real patient health information (PHI) or identifiable data. Use synthetic data exclusively for testing, validation, and learning.<strong>"
+title: Testing and Validation
+description: "The FHIR Lab sandbox is designed for testing and validation of standards-based digital health solutions. You can use the available resources below to test your applications and workflows. Please do not use or store real patient health information (PHI) or identifiable data. We strongly advice to use synthetic data exclusively for testing, validation, and learning."
 
 # Author box
 # author:
@@ -19,13 +19,13 @@ description: "<strong>The FHIR Lab sandbox is designed for learning, testing and
 micro_nav: true
 
 # Page navigation
-# page_nav:
-#   prev:
-#        content: Community
-#        url: '../community'
-#    next:
-#        content: Vision
-#        url: '../vision'
+page_nav:
+   prev:
+        content: Advocacy
+        url: '../advocacy'
+   next:
+       content: Learning
+        url: '#'
 
 
 # Grid navigation

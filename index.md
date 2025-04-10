@@ -15,7 +15,7 @@ buttons:
       external_url: false
     - icon: 
       content: Learning
-      url: 'learning'
+      url: 'services'
       external_url: false
     - icon: 
       content: Testing
@@ -31,19 +31,19 @@ author:
         
 # Grid navigation
 grid_navigation:
-    - title: I'm a technology implementer
+    - title: Technology implementers
       excerpt: Use FhirLab to accelerate developement, testing and validation of standards-based digital health solutions.
       cta: Learn More
-      url: 'developer'
-    - title: I'm a Healthcare Worker
+      url: 'services'
+    - title: Healthcare Workers
       excerpt: Use FHIRLab as Simulated Point-of-Care Systems and FHIR enabled digital applicatins to explore real-world healthcare usecases.
       cta: Learn More
       url: 'provider'
-    - title: I'm a Trainer/Student
+    - title: Trainer and Student
       excerpt: Use FHIRLab for FHIR exercises, training and hands-on immersive learning.
       cta: Learn More
       url: 'learner'
-    - title: I'm Policy maker/Health Systems Manager
+    - title: Health Systems Manager and Policy Makers
       excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
       cta: Learn More
       url: 'policymaker'

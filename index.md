@@ -14,38 +14,38 @@ buttons:
       url: 'advocacy'
       external_url: false
     - icon: 
-      content: Learning
+      content: Testing
       url: 'services'
       external_url: false
-    - icon: 
-      content: Testing
-      url: 'testing'
-      external_url: false
+#     - icon: 
+#     content: Larning (Coming Soon)
+#      url: '#'
+#      external_url: false
 
 # Author box
 author:
- title: FHIRLab Community Events
- title_url: 'futureevents'
+ title: Community Events
+ title_url: '#'
  external_url: false
  description: Join us at the next FHIRLab event. Learn, test and validate digital health solutions along with peers, industry leaders and interoperability community of Practice.  
         
 # Grid navigation
 grid_navigation:
-    - title: Technology implementers
+    - title: Technology Implementers
       excerpt: Use FhirLab to accelerate developement, testing and validation of standards-based digital health solutions.
       cta: Learn More
       url: 'services'
     - title: Healthcare Workers
       excerpt: Use FHIRLab as Simulated Point-of-Care Systems and FHIR enabled digital applicatins to explore real-world healthcare usecases.
       cta: Learn More
-      url: 'provider'
-    - title: Trainer and Student
+      url: '#'
+    - title: Trainers and Students
       excerpt: Use FHIRLab for FHIR exercises, training and hands-on immersive learning.
       cta: Learn More
-      url: 'learner'
+      url: '#'
     - title: Health Systems Manager and Policy Makers
       excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
       cta: Learn More
-      url: 'policymaker'
+      url: '#'
 
 ---

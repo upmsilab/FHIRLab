@@ -20,11 +20,11 @@ micro_nav: true
 
 # Page navigation
 page_nav:
-   prev:
+    prev:
         content: Advocacy
         url: '../advocacy'
-   next:
-       content: Learning
+    next:
+        content: Learning
         url: '#'
 
 

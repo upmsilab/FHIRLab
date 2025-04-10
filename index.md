@@ -18,7 +18,7 @@ buttons:
       url: 'services'
       external_url: false
     - icon: 
-      content: Larning (Coming Soon)
+      content: Learning (Coming Soon)
       url: '#'
       external_url: false
 

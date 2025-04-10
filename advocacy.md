@@ -27,10 +27,10 @@ FHIRLab offers a simulated functional health data environment. It helps demystif
 
 # Who can use FHIRLab for Advocacy?
 - Policymakers and Health System Leaders
-- Healthcare Workers**
-- Health IT Implementers and Developers**
-- Educators and Trainers in Digital Health**
-- Development Partners and Donors**
+- Healthcare Workers
+- Health IT Implementers and Developers
+- Educators and Trainers in Digital Health
+- Development Partners and Donors
 
 # Use Cases
 FHIRLab resoures make it easy to explore and understand the practical applications of Digital Health Standards and Interoperability. We have curated following examples of how different actors can use **FHIRLab** for advocacy, including the tools currently available in the sandbox.

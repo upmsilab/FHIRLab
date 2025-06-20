@@ -24,10 +24,10 @@ buttons:
 
 # Author box
 author:
- title: Community Events
- title_url: '#'
- external_url: false
- description: Join us at the next FHIRLab event. Learn, test and validate digital health solutions along with peers, industry leaders and interoperability community of Practice.  
+ title: Missed FHIR Connectathon
+ title_url: 'https://github.com/upmsilab/2025JuneFHIRConnectathon'
+ external_url: true
+ description: Try the connectathon track and activities using FHIRLab tools.  
         
 # Grid navigation
 grid_navigation:

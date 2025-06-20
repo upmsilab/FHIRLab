@@ -24,10 +24,10 @@ buttons:
 
 # Author box
 author:
- title: Missed FHIR Connectathon
+ title: Missed FHIR Connectathon?
  title_url: 'https://github.com/upmsilab/2025JuneFHIRConnectathon'
  external_url: true
- description: Try the connectathon track and activities using FHIRLab tools.  
+ description: You can try the connectathon track and activities using FHIRLab tools and available guides.  
         
 # Grid navigation
 grid_navigation:

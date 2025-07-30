@@ -68,8 +68,8 @@ grid_navigation:
 
    FHIRFLARE is a browser-based toolkit for working with FHIR Implementation Guides.
 
-   - [Validation Guide](FHIRFLARE_Validation_Guide) - Learn how to validate FHIR resources against Implementation Guides
-   - [FSH Converter](FHIRFLARE_FSH_Guide) - Convert FHIR resources to FHIR Shorthand (FSH) format
+   - [Validation Guide](FHIR Validator) - Learn how to validate FHIR resources against Implementation Guides
+   - [FSH Converter](FSH Converter) - Convert FHIR resources to FHIR Shorthand (FSH) format
    - [Lite Mode Guide](FHIRFLARE_LiteMode_Guide) - Complete guide to FHIRFLARE's lightweight browser-based features
 
    FHIRFLARE Web App | [https://flare.fhirlab.net](https://flare.fhirlab.net)

@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: FHIR® Lab
-description: "An open Interoperability Sandbox for Advocacy, Learning and Testing of standards-based digital health solutions in a safe and controlled environment. FHIR® Lab is part of The Strengthening Standards Capability Project (SSCP), between the Australian e-Health Research Centre (AEHRC) at the Commonwealth Scientific and Industrial Research Organisation (CSIRO) and Standards and Interoperability Lab, University of the Philippines, Manila (UPM SILab) for improved adoption of digital health standards and interoperability. The SSCP is co-funded by CSIRO and DFAT Australia.<br><br>HL7® and FHIR® are registered trademarks of Health Level Seven International."
+description: "Digital Health Interoeprability Sandbox for Innovation and Capacity Building. FHIR® Lab is an interoperability sandbox designed for low-resource settings, as a safe, practical environment where countries can build local skills, test big ideas, and accelerate the adoption of international digital health standards like HL7® FHIR®, SNOMED CT, and ICD. Whether you're a policymaker, implementer, developer, or trainer, FHIR Lab supports advocacy, hands-on learning, and real-world testing, before major investments and scaling up to national systems. It's your plug-and-play launchpad for digital health transformation, suited for local needs, and aligned with global best practices.<br>FHIR® Lab is part of The Strengthening Standards Capability Project (SSCP), co-funded by CSIRO Australia and Australian Government, Department of Foreign Affairs and Trade <br><br>HL7® and FHIR® are registered trademarks of Health Level Seven International."
 
 
 buttons:
@@ -18,16 +18,16 @@ buttons:
       url: 'tools'
       external_url: false
     - icon: 
-      content: Learning (Coming Soon)
+      content: Learning
       url: '#'
       external_url: false
 
 # Author box
 author:
- title: Missed FHIR Connectathon?
- title_url: 'https://github.com/upmsilab/2025JuneFHIRConnectathon'
+ title: Partner with FHIR®Lab.
+ title_url: 'https://github.com/upmsilab/FHIRLab/issues'
  external_url: true
- description: You can try the connectathon track and activities using FHIRLab tools and available guides.  
+ description: We’re always looking for great technology partners to help power our sandbox. If you have a platform or app that supports health information exchange and want to make it available in FHIRLab, let’s talk!  
         
 # Grid navigation
 grid_navigation:

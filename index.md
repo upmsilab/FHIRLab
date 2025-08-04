@@ -48,6 +48,6 @@ grid_navigation:
       excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
       cta: Learn More
       url: '#'
-      -->
+-->
 
 ---

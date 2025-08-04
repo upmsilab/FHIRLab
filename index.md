@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: FHIR® Lab
-description: "Digital Health Interoeprability Sandbox for Innovation and Capacity Building. FHIR® Lab is an interoperability sandbox designed for low-resource settings, as a safe, practical environment where countries can build local skills, test big ideas, and accelerate the adoption of international digital health standards like HL7® FHIR®, SNOMED CT, and ICD. Whether you're a policymaker, implementer, developer, or trainer, FHIR Lab supports advocacy, hands-on learning, and real-world testing, before major investments and scaling up to national systems. It's your plug-and-play launchpad for digital health transformation, suited for local needs, and aligned with global best practices.<br>FHIR® Lab is part of The Strengthening Standards Capability Project (SSCP), co-funded by CSIRO Australia and Australian Government, Department of Foreign Affairs and Trade <br><br>HL7® and FHIR® are registered trademarks of Health Level Seven International."
+description: "Digital Health Interoeprability Sandbox for Innovation and Capacity Building. FHIR® Lab is an interoperability sandbox designed for low-resource settings, as a safe, practical environment where countries can build local skills, test big ideas, and accelerate the adoption of international digital health standards like HL7® FHIR®, SNOMED CT, and ICD. Whether you're a policymaker, implementer, developer, or trainer, FHIR Lab supports advocacy, hands-on learning, and real-world testing, before major investments and scaling up to national systems. It's your plug-and-play launchpad for digital health transformation, suited for local needs, and aligned with global best practices.<br><br>FHIR® Lab is part of The Strengthening Standards Capability Project (SSCP), co-funded by CSIRO Australia and Australian Government, Department of Foreign Affairs and Trade <br><br>HL7® and FHIR® are registered trademarks of Health Level Seven International."
 
 
 buttons:
@@ -19,16 +19,17 @@ buttons:
       external_url: false
     - icon: 
       content: Learning
-      url: '#'
+      url: 'learning'
       external_url: false
 
 # Author box
 author:
- title: Partner with FHIR®Lab.
+ title: Partner with us.
  title_url: 'https://github.com/upmsilab/FHIRLab/issues'
  external_url: true
- description: We’re always looking for great technology partners to help power our sandbox. If you have a platform or app that supports health information exchange and want to make it available in FHIRLab, let’s talk!  
+ description: We’re always looking for great technology partners to power our sandbox. If you have a platform that supports health information exchange and want to make it available in FHIRLab, let’s talk!  
         
+<!--
 # Grid navigation
 grid_navigation:
     - title: Technology Implementers
@@ -47,5 +48,6 @@ grid_navigation:
       excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
       cta: Learn More
       url: '#'
+      -->
 
 ---

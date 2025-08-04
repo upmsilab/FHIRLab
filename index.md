@@ -29,25 +29,23 @@ author:
  external_url: true
  description: We’re always looking for great technology partners to power our sandbox. If you have a platform that supports health information exchange and want to make it available in FHIRLab, let’s talk!  
         
-<!--
-# Grid navigation
-grid_navigation:
-    - title: Technology Implementers
-      excerpt: Use FhirLab to accelerate developement, testing and validation of standards-based digital health solutions.
-      cta: Learn More
-      url: 'services'
-    - title: Healthcare Workers
-      excerpt: Use FHIRLab as Simulated Point-of-Care Systems and FHIR enabled digital applicatins to explore real-world healthcare usecases.
-      cta: Learn More
-      url: '#'
-    - title: Trainers and Students
-      excerpt: Use FHIRLab for FHIR exercises, training and hands-on immersive learning.
-      cta: Learn More
-      url: '#'
-    - title: Health Systems Manager and Policy Makers
-      excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
-      cta: Learn More
-      url: '#'
--->
+# The following block is commented out
+#     grid_navigation:
+#   - title: Technology Implementers
+#     excerpt: Use FhirLab to accelerate developement...
+#     cta: Learn More
+#     url: 'services'
+#   - title: Healthcare Workers
+#     excerpt: Use FHIRLab as Simulated Point-of-Care...
+#     cta: Learn More
+#     url: '#'
+#   - title: Trainers and Students
+#     excerpt: Use FHIRLab for FHIR exercises...
+#     cta: Learn More
+#     url: '#'
+#   - title: Health Systems Manager and Policy Makers
+#     excerpt: Explore how sandbox tools...
+#     cta: Learn More
+#     url: '#'
 
 ---

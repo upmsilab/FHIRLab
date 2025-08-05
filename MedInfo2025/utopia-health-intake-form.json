@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "profile": [
+      "https://emr-core.beda.software/StructureDefinition/fhir-emr-questionnaire"
+    ],
+    "lastUpdated": "2025-08-05T00:04:12.751847Z",
+    "versionId": "4815",
+    "extension": [
+      {
+        "url": "https://aidbox.app/ex/createdAt",
+        "valueInstant": "2025-07-30T05:00:15.194437Z"
+      }
+    ]
+  },
+  "item": [
+    {
+      "text": "Health Identifier",
+      "type": "integer",
+      "linkId": "bmeuHmHo"
+    },
+    {
+      "text": "Patient Full Name",
+      "type": "string",
+      "linkId": "3Wqf2Q86"
+    },
+    {
+      "text": "Date of Birth",
+      "type": "date",
+      "linkId": "tfIzLfgG"
+    },
+    {
+      "text": "Sex",
+      "type": "choice",
+      "linkId": "oKDVfVPc",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-preferredTerminologyServer",
+          "valueUrl": "https://tx.fhirlab.net/fhir"
+        }
+      ],
+      "answerValueSet": "https://nhdr.gov.ph/fhir/ValueSet/SexVS|0.1.0"
+    },
+    {
+      "text": "Region",
+      "type": "open-choice",
+      "linkId": "B41rzj0f",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-preferredTerminologyServer",
+          "valueUrl": "https://tx.fhirlab.net/fhir"
+        }
+      ],
+      "answerValueSet": "urn://example.com/ph-core/fhir/ValueSet/regions|0.1.0"
+    },
+    {
+      "text": "Problem Hx",
+      "type": "open-choice",
+      "linkId": "QPvA-y1z",
+      "repeats": true,
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-preferredTerminologyServer",
+          "valueUrl": "https://tx.fhirlab.net/fhir"
+        }
+      ],
+      "answerValueSet": "http://hl7.org/fhir/uv/ips/ValueSet/problems-uv-ips|2.0.0"
+    },
+    {
+      "type": "display",
+      "text": "Sub-questionnaire cannot be resolved: http://forms.aidbox.io/component/allergies|1",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-subQuestionnaire",
+          "valueCanonical": "http://forms.aidbox.io/component/allergies|1"
+        }
+      ],
+      "linkId": "wL2QdFk2"
+    },
+    {
+      "text": "Vaccines taken",
+      "type": "open-choice",
+      "linkId": "SfmgJUDg",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-preferredTerminologyServer",
+          "valueUrl": "https://tx.fhirlab.net/fhir"
+        }
+      ],
+      "answerValueSet": "http://hl7.org/fhir/uv/ips/ValueSet/vaccines-uv-ips|2.0.0",
+      "repeats": true
+    },
+    {
+      "text": "Current Medications",
+      "type": "open-choice",
+      "linkId": "f2JwZyaU",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-preferredTerminologyServer",
+          "valueUrl": "https://tx.fhirlab.net/fhir"
+        }
+      ],
+      "answerValueSet": "http://hl7.org/fhir/uv/ips/ValueSet/medication-uv-ips|2.0.0"
+    },
+    {
+      "text": "Procedure Hx",
+      "type": "open-choice",
+      "linkId": "ciFDEmZa",
+      "extension": [
+        {
+          "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-preferredTerminologyServer",
+          "valueUrl": "https://tx.fhirlab.net/fhir"
+        }
+      ],
+      "answerValueSet": "https://nhdr.gov.ph/fhir/ValueSet/ProcedureCodeVS|0.1.0",
+      "repeats": true
+    }
+  ],
+  "resourceType": "Questionnaire",
+  "title": "Utopia Health Intake Form",
+  "extension": [
+    {
+      "url": "http://hl7.org/fhir/uv/sdc/StructureDefinition/sdc-questionnaire-assemble-expectation",
+      "valueCode": "assemble-root"
+    }
+  ],
+  "status": "active",
+  "language": "en-AU",
+  "id": "77d89e6d-5dac-486e-9ad9-aa26dadcab51",
+  "url": "utopia-intake-form"
+}

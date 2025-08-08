@@ -22,10 +22,10 @@ You will use **FHIR** to model the form and ensure answers are coded using inter
 
 Each table represents a **clinical intformatics team**. Working together:
 
-- Working together at each table, review the provided paper form (5 min). 
-- Map questions to a corresponding FHIR Questionnaire item using the AidBox Form builder Chose the correct item type e.g., string, choice, date, Boolean etc. (15 min).
-- Review and identify value sets for each form fields where answer could be a discrete list or predefined options e.g., Yes/No, Gender, Problems history. List of available value sets is provided (15 min). 
-- Discuss your work among the group (5 min). 
+- Working together at each table, review the provided paper form. 
+- Map questions to a corresponding FHIR Questionnaire item using the AidBox Form builder Chose the correct item type e.g., string, choice, date, Boolean etc.
+- Review and identify value sets for each form fields where answer could be a discrete list or predefined options e.g., Yes/No, Gender, Problems history. List of available value sets is provided. 
+- Discuss your work among the group. 
 - Download a sample FHIR Questionnaire JSON file to review: https://tinyurl.com/274kd7nn
 
  **Note:** If you don't have access to laptop, continue with the provided mapping sheet:

@@ -32,10 +32,10 @@ author:
 
 # Grid navigation
 grid_navigation:
-    - title: HAPI FHIR Server
-      excerpt:
+    - title: HAPI
+      excerpt: FHIR Server
       cta: try it out
-      external_url: 'https://cdr.fhirlab.net/fhir/swagger-ui/'
+      url: 'https://cdr.fhirlab.net/fhir/swagger-ui/'
 #    - title: Healthcare Workers
 #      excerpt: Use FHIRLab as Simulated Point-of-Care Systems and FHIR enabled digital applicatins to explore real-world healthcare usecases.
 #      cta: Learn More

@@ -32,10 +32,10 @@ author:
 
 # Grid navigation
 # grid_navigation:
-#    - title: Technology Implementers
-#      excerpt: Use FhirLab to accelerate developement, testing and validation of standards-based digital health solutions.
-#      cta: Learn More
-#      url: 'services'
+    - title: HAPI FHIR Server
+      excerpt:
+      cta: try it out
+      external_url: 'https://cdr.fhirlab.net/fhir/swagger-ui/'
 #    - title: Healthcare Workers
 #      excerpt: Use FHIRLab as Simulated Point-of-Care Systems and FHIR enabled digital applicatins to explore real-world healthcare usecases.
 #      cta: Learn More

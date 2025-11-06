@@ -37,7 +37,7 @@ FHIRLab resoures make it easy to explore and understand the practical applicatio
 
 For starting, we have also curated some examples of how different actors can use the tools currently available in the sandbox.
 
-## Understand foundational cocnepts for standards
+## Understand foundational concepts for standards
 Learn foundational concepts of FHIR, and terminology, and why they matter.
 
 ### Terminology Services 

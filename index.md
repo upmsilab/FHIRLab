@@ -31,7 +31,7 @@ author:
         
 
 # Grid navigation
-# grid_navigation:
+grid_navigation:
     - title: HAPI FHIR Server
       excerpt:
       cta: try it out

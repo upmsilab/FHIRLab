@@ -66,8 +66,6 @@
 						<div class="col-md-12">
 							<div class="nav-grid nav-grid--out">
 								<div class="row">
-									<img src="/designs/fhirlabCM.png" alt="Descriptive Alt Text" class="img-responsive" />
-									{% comment %}
 									{% for item in page.grid_navigation %}
 										<div class="col-sm-6 col-lg-4">
 											<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ item.url }}" class="nav-grid__item">
@@ -82,7 +80,6 @@
 											</a><!-- /.nav-grid__item -->
 										</div><!-- /.col -->
 									{% endfor %}
-									{% endcomment %}
 								</div><!-- /.row -->
 							</div><!-- /.nav-grid -->
 						</div><!-- /.col -->

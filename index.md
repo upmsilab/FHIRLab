@@ -43,7 +43,7 @@ grid_navigation:
     - title: Learning Activities
       excerpt: Try these little excercises to learn and demonstrate standards in action
       cta: 
-      url: 'learning.md'
+      url: '/Learning'
     - title: FHIR Flare
       excerpt: FHIR IG Toolkit
       cta: 

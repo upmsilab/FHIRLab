@@ -32,21 +32,33 @@ author:
 
 # Grid navigation
 grid_navigation:
-    - title: HAPI
-      excerpt: FHIR Server
-      cta: try it out
+    - title: HAPI FHIR Server
+      excerpt: Fully functional FHIR server to help you try out all things FHIR. 
+      cta: 
       url: 'https://cdr.fhirlab.net/fhir/swagger-ui/'
-#    - title: Healthcare Workers
-#      excerpt: Use FHIRLab as Simulated Point-of-Care Systems and FHIR enabled digital applicatins to explore real-world healthcare usecases.
-#      cta: Learn More
-#      url: '#'
-#    - title: Trainers and Students
-#      excerpt: Use FHIRLab for FHIR exercises, training and hands-on immersive learning.
-#      cta: Learn More
-#      url: '#'
-#    - title: Health Systems Manager and Policy Makers
-#      excerpt: Explore how sandbox tools can be used to apply knowledge for healthcare issues.
-#      cta: Learn More
-#      url: '#'
+    - title: Ontoserver
+      excerpt: Learn FHIR terminology, create ValueSets and expand in Point of Service Systems
+      cta: 
+      url: 'https://tx.fhirlab.net/fhir:'
+    - title: FHIR Flare
+      excerpt: FHIR IG Toolkit
+      cta: 
+      url: 'https://flare.fhirlab.net/'
+    - title: Smart Forms
+      excerpt: Smart on FHIR tools - Learn and try Smart On FHIR workflows in a simulated environment
+      cta: 
+      url: 'https://formlab.fhirlab.net/'
+    - title: OpenMRS
+      excerpt: Simulated EMR - Explore how an EMR and Terminology Service support standards-based clinical documentation
+      cta: 
+      url: 'https://bahmni.dev.fhirlab.net/'
+    - title: AidBox
+      excerpt: FHIR Platform / SDC - Explore AI form generation, structure data capture and EMR integrations
+      cta: 
+      url: 'https://airbox.fhirlab.net/'
+    - title: Beda EMR
+      excerpt: Try out a FHIR native EMR in action (Hint! create forms in Aidbox, and use in Beda EMR)
+      cta: 
+      url: 'https://airbox.fhirlab.net/'
 
 ---

@@ -1,7 +1,7 @@
 # Theme settings
 doks:
     baseurl: https://fhirlab.net/
-    color_theme: blue # Available themes: blue (default), green, purple, red and yellow
+    color_theme: blue (default) # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
             text: FHIR Lab

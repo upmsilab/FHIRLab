@@ -9,18 +9,18 @@ description: "Digital Health Interoeprability Sandbox for Innovation and Capacit
 
 
 buttons:
-    - icon: 
-      content: Advocacy
-      url: '#'
-      external_url: false
-    - icon: 
-      content: Testing
-      url: '#'
-      external_url: false
-    - icon: 
-      content: Learning
-      url: '#'
-      external_url: false
+#    - icon: 
+#      content: Advocacy
+#      url: '#'
+#      external_url: false
+#    - icon: 
+#      content: Testing
+#      url: '#'
+#      external_url: false
+#    - icon: 
+#      content: Learning
+#      url: '#'
+#      external_url: false
 
 # Author box
 author:
@@ -40,6 +40,10 @@ grid_navigation:
       excerpt: Learn FHIR terminology, create ValueSets and expand in Point of Service Systems
       cta: 
       url: 'https://tx.fhirlab.net/fhir:'
+    - title: Learning Activities
+      excerpt: Try these little excercises to learn and demonstrate standards in action
+      cta: 
+      url: 'Learning'
     - title: FHIR Flare
       excerpt: FHIR IG Toolkit
       cta: 

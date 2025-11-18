@@ -5,27 +5,27 @@ keywords:
 comments: false
 
 # Hero section
-title: Advocacy
-description: "FHIRLab is designed to support advocacy efforts for the adoption of health data interoperability and standards including but not limited to HL7 FHIR, SNOMED CT, and LOINC. It allows stakeholders and policy makers to experience the real-world value of interoperability through hands-on activities, use cases, walkthroughs all using standards-based digital health tools."
+title: Learning
+description: "FHIRLab is designed to support learning efforts for the adoption of health data interoperability and standards including but not limited to HL7 FHIR, SNOMED CT, and LOINC. It allows stakeholders and policy makers to experience the real-world value of interoperability through hands-on activities, use cases, walkthroughs all using standards-based digital health tools."
 
 # Micro navigation
 micro_nav: true
 
 # Page navigation
-page_nav:
-    prev:
-        content: Learning
-        url: '#'
-    next:
-        content: Testing
-        url: '/services'
+# page_nav:
+#   prev:
+#        content: Learning
+#        url: '#'
+#    next:
+#        content: Testing
+#        url: '/services'
 
 ---
 
 **Accelerating the adoption of digital health, standards and interoperability**
 The Sandbox offers a simulated functional environment to demystify digital health interoperability and enables decision-makers and implementers to see how interoperability improves patient care, health system performance, and data-driven decision-making through real-world healthcare use cases and interactive walkthroughs. 
 
-# Who can use the sandbox for Advocacy?
+# Who can use the sandbox?
 - Policymakers and Health System Leaders
 - Healthcare Workers
 - Health IT Implementers and Developers

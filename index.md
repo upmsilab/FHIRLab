@@ -5,7 +5,11 @@ keywords:
 
 # Hero section
 title: FHIR® Lab
-description: "Digital Health Interoeprability Sandbox for Innovation and Capacity Building. FHIR® Lab is an interoperability sandbox designed for low-resource settings, as a safe, practical environment where countries can build local skills, test big ideas, and accelerate the adoption of international digital health standards like HL7® FHIR®, SNOMED CT, and ICD. Whether you're a policymaker, implementer, developer, or trainer, FHIR Lab supports advocacy, hands-on learning, and real-world testing, before major investments and scaling up to national systems. It's your plug-and-play launchpad for digital health transformation, suited for local needs, and aligned with global best practices.<br><br>FHIR® Lab is part of The Strengthening Standards Capability Project (SSCP), co-funded by CSIRO Australia and Australian Government, Department of Foreign Affairs and Trade <br><br>HL7® and FHIR® are registered trademarks of Health Level Seven International. <br><br> Please see full list of tools available to you in FHIRLab for learning, testing and advocacy."
+description: "Digital Health Interoeprability Sandbox for learning and capacity development.<br><br>
+FHIR® Lab is an interoperability sandbox, with a collection of tools designed for low-resource settings as a safe, and practical environment where users can develop skills, test big ideas in digital health, and accelerate the adoption of standards such as, HL7® FHIR®, SNOMED CT, ICD, LOINC etc. Whether you're a policymaker, implementer, developer, student or trainer, FHIR Lab can support advocacy, hands-on learning, and real-world testing before any major investments and scaling national systems. You can call it a playpen or a launchpad for digital health transformations, suited for local needs, and aligned with global best practices.<br><br>
+The FHIR® Lab sandbox is part of The Strengthening Standards Capability Project (SSCP), co-funded by CSIRO Australia and Australian Government, Department of Foreign Affairs and Trade <br><br>
+HL7® and FHIR® are registered trademarks of Health Level Seven International.<br><br>
+Please find below a complete list of tools available in FHIRLab to support learning, testing, and advocacy efforts."
 
 
 # buttons:

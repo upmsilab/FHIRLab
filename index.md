@@ -68,12 +68,12 @@ grid_navigation:
     - title: AidBox
       excerpt: FHIR Platform / SDC - Explore AI form generation, structure data capture and EMR integrations
       cta: 
-      url: 'https://airbox.fhirlab.net/'
+      url: 'https://aidbox.fhirlab.net/'
       external_url: true
     - title: Beda EMR
       excerpt: Try out a FHIR native EMR in action (Hint! create forms in Aidbox, and use in Beda EMR)
       cta: 
-      url: 'https://airbox.fhirlab.net/'
+      url: 'https://beda.fhirlab.net/'
       external_url: true
 
 ---

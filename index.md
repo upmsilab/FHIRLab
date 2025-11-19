@@ -36,33 +36,40 @@ grid_navigation:
       excerpt: Fully functional FHIR server to help you try out all things FHIR. 
       cta: 
       url: 'https://cdr.fhirlab.net/fhir/swagger-ui/'
+      external_url: true
     - title: Ontoserver
       excerpt: Learn FHIR terminology, create ValueSets and expand in Point of Service Systems
       cta: 
       url: 'https://tx.fhirlab.net/fhir:'
+      external_url: true
     - title: Learning Activities
       excerpt: Try these little excercises to learn and demonstrate standards in action
       cta: 
-      url: 'https://fhirlab.net/learning/'
+      url: 'learning'
     - title: FHIR Flare
       excerpt: FHIR IG Toolkit
       cta: 
       url: 'https://flare.fhirlab.net/'
+      external_url: true
     - title: Smart Forms
       excerpt: Smart on FHIR tools - Learn and try Smart On FHIR workflows in a simulated environment
       cta: 
       url: 'https://formlab.fhirlab.net/'
+      external_url: true
     - title: OpenMRS
       excerpt: Simulated EMR - Explore how an EMR and Terminology Service support standards-based clinical documentation
       cta: 
       url: 'https://bahmni.dev.fhirlab.net/'
+      external_url: true
     - title: AidBox
       excerpt: FHIR Platform / SDC - Explore AI form generation, structure data capture and EMR integrations
       cta: 
       url: 'https://airbox.fhirlab.net/'
+      external_url: true
     - title: Beda EMR
       excerpt: Try out a FHIR native EMR in action (Hint! create forms in Aidbox, and use in Beda EMR)
       cta: 
       url: 'https://airbox.fhirlab.net/'
+      external_url: true
 
 ---

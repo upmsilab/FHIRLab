@@ -44,7 +44,7 @@ grid_navigation:
     - title: Ontoserver
       excerpt: Learn FHIR terminology, create ValueSets and expand in Point of Service Systems
       cta: 
-      url: 'https://tx.fhirlab.net/fhir:'
+      url: 'https://tx.fhirlab.net/'
       external_url: true
     - title: Learning Activities
       excerpt: Try these little excercises to learn and demonstrate standards in action

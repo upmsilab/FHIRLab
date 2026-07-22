@@ -13,14 +13,14 @@ Please find below a complete list of tools available in FHIRLab to support learn
 
 
 # buttons:
-#    - icon: 
-#      content: Advocacy
-#      url: '#'
-#      external_url: false
-#    - icon: 
-#      content: Testing
-#      url: '#'
-#      external_url: false
+    - icon: 
+      content: GitHub Docs
+      url: 'https://github.com/upmsilab/FHIRLab'
+      external_url: true
+    - icon: 
+      content: Setup local lab
+      url: 'https://github.com/aehrc/FHIRLab'
+      external_url: false
 #    - icon: 
 #      content: Learning
 #      url: '#'

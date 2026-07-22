@@ -20,7 +20,7 @@ Please find below a complete list of tools available in FHIRLab to support learn
     - icon: 
       content: Setup local lab
       url: 'https://github.com/aehrc/FHIRLab'
-      external_url: false
+      external_url: true
 #    - icon: 
 #      content: Learning
 #      url: '#'

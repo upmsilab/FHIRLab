@@ -12,7 +12,7 @@ HL7® and FHIR® are registered trademarks of Health Level Seven International.<
 Please find below a complete list of tools available in FHIRLab to support learning, testing, and advocacy efforts."
 
 
-# buttons:
+buttons:
     - icon: 
       content: GitHub Docs
       url: 'https://github.com/upmsilab/FHIRLab'
